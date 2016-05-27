@@ -5,8 +5,10 @@
     <string name="movie_sort_key" translatable="false">Sort Type</string>
     <string name="movie_sort_title">Sort movies by</string>
     <string name="movie_sort_default" translatable="false">Popularity</string>
-    <string name="Api_key">Your API KEY</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
     <string name="sort_by_popularity">popularity.desc</string>
+    <string name="title_sort_by_popularity">sort by popularity</string>
+    <string name="title_sort_by_rating">Highest rated</string>
     <string-array name="movie_sorting_keys">
         <item>Popularity</item>
         <item>high_rated</item>
@@ -16,4 +18,5 @@
         <item>Highest rated</item>
     </string-array>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_adapter">Adapter</string>
 </resources>
